@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<GraderTracker>
+  <currentVersion>
+    <GUI>
+      <major>1</major>
+      <minor>0</minor>
+    </GUI>
+    <BLL>
+      <major>1</major>
+      <minor>0</minor>
+    </BLL>
+    <DAL>
+      <major>1</major>
+      <minor>0</minor>
+    </DAL>
+    <Models>
+      <major>1</major>
+      <minor>0</minor>
+    </Models>
+  </currentVersion>
+</GraderTracker>
