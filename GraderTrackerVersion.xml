@@ -3,11 +3,11 @@
   <currentVersion>
     <GUI>
       <major>1</major>
-      <minor>1</minor>
+      <minor>0</minor>
     </GUI>
     <BLL>
       <major>1</major>
-      <minor>1</minor>
+      <minor>0</minor>
     </BLL>
     <DAL>
       <major>1</major>
