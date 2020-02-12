@@ -3,7 +3,7 @@
   <currentVersion>
     <GUI>
       <major>1</major>
-      <minor>1</minor>
+      <minor>2</minor>
     </GUI>
     <BLL>
       <major>1</major>
@@ -17,5 +17,9 @@
       <major>1</major>
       <minor>0</minor>
     </Models>
+    <Updater>
+      <major>1</major>
+      <minor>0</minor>
+    </Updater>
   </currentVersion>
 </GraderTracker>
